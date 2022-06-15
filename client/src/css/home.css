@@ -1,0 +1,24 @@
+.forms {
+  margin: 0 auto;
+  margin-top: 20%;
+  width: 50%;
+  padding: 10px;
+}
+
+.login {
+    margin: 0 auto;
+    margin-top: 10%;
+    width: 50%;
+    padding: 10px;
+    
+}
+
+body {
+    background: url(../assets/background.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+#button-addon2 {
+    color: white;
+    background-color: black;
+}
